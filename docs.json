@@ -5,7 +5,8 @@
     "default": "light",
     "strict": true
   },
-  "name": "Octant Documentation",
+  "name": "SummerHost",
+  "logo": null,
   "colors": {
     "primary": "#2a2b2c",
     "light": "#2a2b2c",
