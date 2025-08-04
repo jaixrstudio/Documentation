@@ -6,7 +6,7 @@
     "strict": true
   },
   "name": "SummerHost",
-  "logo": logo/summerhost.png,
+  "logo": "logo/summerhost.png",
   "colors": {
     "primary": "#2a2b2c",
     "light": "#2a2b2c",
