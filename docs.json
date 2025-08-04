@@ -7,8 +7,8 @@
   },
   "name": "SummerHost",
   "logo": {
-    "light": "/logo/summerhost.png",
-    "dark": "/logo/summerhost.png"
+    "light": "/logo/winterhost.png",
+    "dark": "/logo/winterhost.png"
   },
   "favicon": "/favicon.png",
   "colors": {
