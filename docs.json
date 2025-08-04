@@ -6,17 +6,15 @@
     "strict": true
   },
   "name": "SummerHost",
-  "logo": "/logo/summerhost.png"
+  "logo": {
+    "light": "/logo/summerhost.png",
+    "dark": "/logo/summerhost.png"
+  },
+  "favicon": "/favicon.png",
   "colors": {
     "primary": "#2a2b2c",
     "light": "#2a2b2c",
     "dark": "#AE0C35"
-  }
-},
-  "favicon": "/favicon.png",
-  "logo": {
-    "light": "/logo/light.png",
-    "dark": "/logo/dark.png"
   },
   "background": {
     "color": {
