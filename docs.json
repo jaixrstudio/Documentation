@@ -9,11 +9,13 @@
   "logo": {
     "light": "logo/summerhost.png",
     "dark": "logo/summerhost.png"
+  },
   "colors": {
     "primary": "#2a2b2c",
     "light": "#2a2b2c",
     "dark": "#AE0C35"
-  },
+  }
+}
   "favicon": "/favicon.png",
   "logo": {
     "light": "/logo/light.png",
